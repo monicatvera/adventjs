@@ -1,4 +1,4 @@
-# 25 días de restos con JavaScript en adventjs.dev
+# 25 días de retos con JavaScript en adventjs.dev
 
 Esto es una lista con los retos propuesto por [@MiduDev](https://github.com/midudev "@MiduDev") en [https://adventjs.dev/](https://adventjs.dev/).
 
