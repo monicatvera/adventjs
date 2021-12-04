@@ -19,3 +19,8 @@ Con la emoción de que llega la navidad, nos está costando dormir bastante últ
 ¡El Grinch anda suelto y quiere fastidiar la Navidad! 😱 Vamos a arreglar el lío que ha montado en la fábrica de regalos de Santa Claus
 
 ![ Grinch](https://i.imgur.com/tPD2Kvq.png)
+# [#4 ¡Es hora de poner la navidad en casa!](04-arbol/04-arbol.md) ✅
+
+Creo que ya podemos sacar el gorro navideño, el turrón... ¡Y el árbol de navidad! 🎄 Vamos a montarlo con JavaScript.
+
+![ Grinch](https://i.imgur.com/77QADdo.png)
