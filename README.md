@@ -24,3 +24,15 @@ Con la emoción de que llega la navidad, nos está costando dormir bastante últ
 Creo que ya podemos sacar el gorro navideño, el turrón... ¡Y el árbol de navidad! 🎄 Vamos a montarlo con JavaScript.
 
 ![ Grinch](https://i.imgur.com/77QADdo.png)
+
+# [#5 Contando los días para los regalos](05-regalos/05-regalos.md) ✅
+
+¡Qué ganas de abrir los regalos 🎁! Estoy tan nervioso que no paro de contar los días que faltan 🤣. ¿Me ayudas creando un programita? ¡Venga!
+
+![ regalo](https://i.imgur.com/P9REe8t.png)
+
+# [#6 Rematando los exámenes finales](06-mates/06-mates.md) ✅
+
+Buffff! Ya huelo las vacaciones pero todavía falta terminar los exámenes finales. ¡Y toca un poco de matemáticas! 😱 ¡Ayúdame!
+
+![ mates](https://i.imgur.com/ShiLmtD.png)
