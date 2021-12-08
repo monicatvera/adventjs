@@ -36,3 +36,14 @@ Creo que ya podemos sacar el gorro navideño, el turrón... ¡Y el árbol de nav
 Buffff! Ya huelo las vacaciones pero todavía falta terminar los exámenes finales. ¡Y toca un poco de matemáticas! 😱 ¡Ayúdame!
 
 ![ mates](https://i.imgur.com/ShiLmtD.png)
+
+# [#7 Buscando en el almacén...](07-almacen/07-almacen.md) ✅
+
+Tenemos un amigo que trabaja en una tienda y no es capaz de encontrar en el almacén los prductos que tiene... ¿Le ayudamos?
+
+![ almacen](https://i.imgur.com/l3FzQT6.png)
+# [#8 La locura de las criptomonedas](08-cripto/08-cripto.md) ✅
+
+Hemos invertido en criptomonedas... Y el otro día se pusieron todos los valores en rojo. En lugar de asustarnos, vamos a ver si podemos optimizar nuevas inversiones.
+
+![ cripto](https://i.imgur.com/MLeKlgf.png)
