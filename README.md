@@ -47,3 +47,8 @@ Tenemos un amigo que trabaja en una tienda y no es capaz de encontrar en el alma
 Hemos invertido en criptomonedas... Y el otro día se pusieron todos los valores en rojo. En lugar de asustarnos, vamos a ver si podemos optimizar nuevas inversiones.
 
 ![ cripto](https://i.imgur.com/MLeKlgf.png)
+# [#9 Agrupando cosas automáticamente](09-cosas/09-cosas.md) ✅
+
+Tenemos un montón de cajas en la fábrica de regalos... y como no automaticemos de alguna forma ordenar este desastre... ¡Igual nos quedamos sin Navidad!
+
+![ cosas](https://i.imgur.com/QEXYNl8.png)
