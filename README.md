@@ -52,3 +52,8 @@ Hemos invertido en criptomonedas... Y el otro día se pusieron todos los valores
 Tenemos un montón de cajas en la fábrica de regalos... y como no automaticemos de alguna forma ordenar este desastre... ¡Igual nos quedamos sin Navidad!
 
 ![ cosas](https://i.imgur.com/QEXYNl8.png)
+# [#10 La máquina de cambio](10-maquina/10-maquina.md) ✅
+
+De cara a las ventas navideñas, vamos a automatizar el cambio de las monedas para que no se tenga que hacer manualmente. ¡Ganaremos tiempo! Pero primero, hay que programarlo.
+
+![ maquina](https://i.imgur.com/phgDubx.png)
