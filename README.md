@@ -57,3 +57,8 @@ Tenemos un montón de cajas en la fábrica de regalos... y como no automaticemos
 De cara a las ventas navideñas, vamos a automatizar el cambio de las monedas para que no se tenga que hacer manualmente. ¡Ganaremos tiempo! Pero primero, hay que programarlo.
 
 ![ maquina](https://i.imgur.com/phgDubx.png)
+# [#11 ¿Vale la pena la tarjeta fidelidad del cine?](11-cine/11-cine.md) ✅
+
+¡Este mes hay un montón de peliculones en el cine! Viendo que voy a tener que pasar bastante por taquilla también en 2022, estoy mirando de optimizar mis gastos. ¡Ayúdame!
+
+![ cine](https://i.imgur.com/ySduSSt.png)
