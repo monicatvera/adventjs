@@ -62,3 +62,8 @@ De cara a las ventas navideñas, vamos a automatizar el cambio de las monedas pa
 ¡Este mes hay un montón de peliculones en el cine! Viendo que voy a tener que pasar bastante por taquilla también en 2022, estoy mirando de optimizar mis gastos. ¡Ayúdame!
 
 ![ cine](https://i.imgur.com/ySduSSt.png)
+
+# [#12 La ruta perfecta para dejar los regalos](12-regalo/12-regalo.md) ✅
+En el taller de Santa ya están preparándolo todo para poder hacer la ruta perfecta para dejar los regalos. El problema es que hay unos obstáculos en el camino que debemos sortear...
+
+![ cine](https://i.imgur.com/rM9LusH.png)
