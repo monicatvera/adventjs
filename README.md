@@ -67,3 +67,12 @@ De cara a las ventas navideñas, vamos a automatizar el cambio de las monedas pa
 En el taller de Santa ya están preparándolo todo para poder hacer la ruta perfecta para dejar los regalos. El problema es que hay unos obstáculos en el camino que debemos sortear...
 
 ![ cine](https://i.imgur.com/rM9LusH.png)
+# [#13 Envuelve regalos con asteriscos](13-asterisco/13-asterisco.md) ✅
+Estamos a fuego envolviendo regalos... ¡pero necesitamos automatizar esto antes de que los elfos decidan ponerse en huelga! ¡Salva la Navidad (otra vez)!
+
+![ asterisco](https://i.imgur.com/Y7uoP2a.png)
+# [#14 En busca del reno perdido](14-reno/14-reno.md) ✅
+En el pueblo de Santa Claus han ido a pasear a los renos y se les ha escapado uno. ¡Madre mía! Ahora a buscarlo. 😿
+
+![ reno](https://i.imgur.com/Im78lBJ.png)
+
