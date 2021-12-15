@@ -76,3 +76,8 @@ En el pueblo de Santa Claus han ido a pasear a los renos y se les ha escapado un
 
 ![ reno](https://i.imgur.com/Im78lBJ.png)
 
+# [#15 El salto perfecto](15-salto/15-salto.md) ✅
+Estamos optimizando el trineo para que los saltos que da sean lo más óptimos posible. Un amigo que tiene un Tesla nos ha explicado la mejor forma. ¡A ver si sacamos una función para aseguarnos!
+
+![ salto](https://i.imgur.com/mZuallU.png)
+
