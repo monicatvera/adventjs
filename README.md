@@ -80,4 +80,51 @@ En el pueblo de Santa Claus han ido a pasear a los renos y se les ha escapado un
 Estamos optimizando el trineo para que los saltos que da sean lo más óptimos posible. Un amigo que tiene un Tesla nos ha explicado la mejor forma. ¡A ver si sacamos una función para aseguarnos!
 
 ![ salto](https://i.imgur.com/mZuallU.png)
+# [#16 Descifrando los números...](16-numero/16-numero.md) ✅
+Hemos encontrado unas cartas misteriores que contienen un montón de símbolos. Por suerte tenemos el diccionario para decodificarlas. ¡Vamos a ver qué contienen!
 
+![ numero](https://i.imgur.com/BRkjhaN.png)
+# [#17 La locura de enviar paquetes en esta época](17-paquete/17-paquete.md) ✅
+Llega la época de navidades y las empresas de transporte están sacando cuentas del número de paquetes van a poder enviar. ¡A ver cómo lo hacemos!
+
+![ paquete](https://i.imgur.com/tkY6vOG.png)
+
+# [#18 El sistema operativo de Santa Claus](18-sistema/18-sistema.md) ✅
+Estamos programando un sistema operativo para los ordenadores del taller de Santa Claus... Tenemos que gestionar los nombres de los archivos para que no se repitan.
+
+![ sistema](https://i.imgur.com/Vah3mwn.png)
+
+# [#19 ¿Qué deberíamos aprender en Platzi?](19-platzi/19-platzi.md) ✅
+¡Hay un montón de cursos en Platzi! Queremos hacer dos cursos y nuestro tiempo es limitado. ¡Vamos a crear una función para elegir los dos mejores cursos a hacer según nuestro tiempo!
+
+![ platzi](https://i.imgur.com/WYHoTfg.png)
+
+# [#20 ¿Una carta de pangramas? ¡QUÉ!](20-carta/20-carta.md) ✅
+Los niños de Laponia tienen en su clase de castellano el reto de crear una carta a Santa Claus con todas las letras del alfabeto...¡Ayuda a detectar si lo hacen bien!
+
+![ carta](https://i.imgur.com/hfC6iRO.png)
+
+# [#21 La ruta con los regalos](21-ruta/21-ruta.md) ✅
+La gente cree que la bolsa de Santa Claus no tiene fondo pero la realidad es que son los elfos que se encargan de hacer que sus viajes encajen para llevar y recoger todos los regalos por todo el mundo.
+
+![ ruta](https://i.imgur.com/iEGhKak.png)
+
+# [#22 ¿Cuantos adornos necesita el árbol?](22-adornos/22-adornos.md) ✅
+¡Ay! Que llega la Navidad y no hemos decorado todavía el árbol. 🎄😱 ¡Tenemos que hacer algo lo antes posible!
+
+![ adornos](https://i.imgur.com/6cvbhNB.png)
+
+# [#23 ¿Puedes reconfigurar las fábricas para no parar de crear regalos?](23-fabrica/23-fabrica.md) ✅
+Santa Claus quiere las máquinas funcionando las 24 horas, como si esto fuera una rave de Pocholo. Chiki pun chiki pun. ¡Ayúdale a conseguirlo!
+
+![ fabrica](https://i.imgur.com/TMBuHhf.png)
+
+# [#24 Comparando árboles de Navidad](24-arboles/24-arboles.md) ✅
+El abuelo y la abuela llevan discutiendo todo el día que si los árboles de Navidad son todos iguales... ¡Salgamos de dudas!
+
+![ arboles](https://i.imgur.com/NazkEmX.png)
+
+# [#25 El último juego y hasta el año que viene 👋](25-juego/25-juego.md) ✅
+Un ratón ha visto que en el comedor ha quedado un montón de comida 🥮 y ya está relamiéndose los bigotes por el festín que se va a pegar. 🐭
+
+![ juego](https://i.imgur.com/gIJK0Pr.png)
