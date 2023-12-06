@@ -101,6 +101,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 02  |  [Factory in Action!](2023/challenge-02)  |       🟢       | [Show](2023/challenge-02/solution.js) |
 | 03  | [The naughty elf](2023/challenge-03) |       🟢       | [Show](2023/challenge-03/solution.js) |
 | 04  |     [Reverse the Parentheses](2023/challenge-04)      |       🟠       | [Show](2023/challenge-04/solution.js) |
+| 05  |         [Santa's CyberTruck](2023/challenge-05)         |       🟠       | [Show](2023/challenge-05/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
