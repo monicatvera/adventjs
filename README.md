@@ -98,6 +98,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 |  #  |                           Challenge                           | Difficulty[^1] |               Solution                |
 | :-: | :-----------------------------------------------------------: | :------------: | :-----------------------------------: |
 | 01  |   [First repeat gift!](2023/challenge-01)    |       🟢       | [Show](2023/challenge-01/solution.js) |
+| 02  |  [Factory in Action!](2023/challenge-02)  |       🟢       | [Show](2023/challenge-02/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
