@@ -43,13 +43,14 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 24  |                   [Comparando árboles de Navidad](2021/24-arboles)                   |       🟠       | [Show](2021/24-arboles/24-arboles.md) |
 | 25  |            [El último juego y hasta el año que viene 👋](2021/25-juego)            |       🟠       | [Show](2021/25-juego/25-juego.md) |
 
+[^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 </details>
 
 </br>
 
 ## 🤖 2022
 
-<details open>
+<details hide>
 
 <summary>Show / Hide</summary>
 
@@ -80,6 +81,23 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 22  |            [The lighting in tune](2022/challenge-22)             |       🟢       | [Show](2022/challenge-22/solution.js) |
 | 23  |            [Santa Claus Compiler](2022/challenge-23)             |       🔴       | [Show](2022/challenge-23/solution.js) |
 | 24  |            [The last challenge is a maze](2022/challenge-24)             |       🔴       | [Show](2022/challenge-24/solution.js) |
+
+[^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
+
+</details>
+
+</br>
+
+## 🎁 2023
+
+<details open>
+
+<summary>Show / Hide</summary>
+
+### 🎮️ Challenges
+|  #  |                           Challenge                           | Difficulty[^1] |               Solution                |
+| :-: | :-----------------------------------------------------------: | :------------: | :-----------------------------------: |
+| 01  |   [First repeat gift!](2023/challenge-01)    |       🟢       | [Show](2023/challenge-01/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
