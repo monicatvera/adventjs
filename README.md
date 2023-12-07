@@ -103,6 +103,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 04  |     [Reverse the Parentheses](2023/challenge-04)      |       🟠       | [Show](2023/challenge-04/solution.js) |
 | 05  |         [Santa's CyberTruck](2023/challenge-05)         |       🟠       | [Show](2023/challenge-05/solution.js) |
 | 06  |        [The reindeer on trial](2023/challenge-06)         |       🟢       | [Show](2023/challenge-06/solution.js) |
+| 07  |        [The 3D boxes](2023/challenge-07)         |       🟢       | [Show](2023/challenge-07/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
