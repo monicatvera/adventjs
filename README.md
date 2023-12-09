@@ -105,6 +105,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 06  |        [The reindeer on trial](2023/challenge-06)         |       🟢       | [Show](2023/challenge-06/solution.js) |
 | 07  |        [The 3D boxes](2023/challenge-07)         |       🟢       | [Show](2023/challenge-07/solution.js) |
 | 08  |        [Sorting the warehouse](2023/challenge-08)         |       🟠       | [Show](2023/challenge-08/solution.js) |
+| 09  |        [Switch the lights](2023/challenge-09)         |       🟢       | [Show](2023/challenge-09/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
