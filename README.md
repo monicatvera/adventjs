@@ -106,6 +106,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 07  |        [The 3D boxes](2023/challenge-07)         |       🟢       | [Show](2023/challenge-07/solution.js) |
 | 08  |        [Sorting the warehouse](2023/challenge-08)         |       🟠       | [Show](2023/challenge-08/solution.js) |
 | 09  |        [Switch the lights](2023/challenge-09)         |       🟢       | [Show](2023/challenge-09/solution.js) |
+| 10  |        [Create your own Christmas tree](2023/challenge-10)         |       🟢       | [Show](2023/challenge-10/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
