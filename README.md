@@ -108,6 +108,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 09  |        [Switch the lights](2023/challenge-09)         |       🟢       | [Show](2023/challenge-09/solution.js) |
 | 10  |        [Create your own Christmas tree](2023/challenge-10)         |       🟢       | [Show](2023/challenge-10/solution.js) |
 | 11  |        [The studious elves](2023/challenge-11)         |       🟠       | [Show](2023/challenge-11/solution.js) |
+| 12  |        [Is it a valid copy?](2023/challenge-12)         |       🟠       | [Show](2023/challenge-12/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
