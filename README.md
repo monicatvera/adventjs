@@ -110,6 +110,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 11  |        [The studious elves](2023/challenge-11)         |       🟠       | [Show](2023/challenge-11/solution.js) |
 | 12  |        [Is it a valid copy?](2023/challenge-12)         |       🟠       | [Show](2023/challenge-12/solution.js) |
 | 13  |        [Calculating the time](2023/challenge-13)         |       🟢       | [Show](2023/challenge-13/solution.js) |
+| 14  |        [Avoid the alarm](2023/challenge-14)         |      🟠        | [Show](2023/challenge-14/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
