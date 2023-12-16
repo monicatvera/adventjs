@@ -112,6 +112,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 13  |        [Calculating the time](2023/challenge-13)         |       🟢       | [Show](2023/challenge-13/solution.js) |
 | 14  |        [Avoid the alarm](2023/challenge-14)         |      🟠        | [Show](2023/challenge-14/solution.js) |
 | 15  |        [Autonomous robot](2023/challenge-15)         |      🟠        | [Show](2023/challenge-15/solution.js) |
+| 16  |        [Friday deployment](2023/challenge-16)         |      🟢        | [Show](2023/challenge-16/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
