@@ -115,6 +115,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 16  |        [Friday deployment](2023/challenge-16)         |      🟢        | [Show](2023/challenge-16/solution.js) |
 | 17  |        [Optimizing the rental](2023/challenge-17)         |      🟢        | [Show](2023/challenge-17/solution.js) |
 | 18  |        [The digital clock](2023/challenge-18)         |      🔴        | [Show](2023/challenge-18/solution.js) |
+| 19  |        [Face the sabotage](2023/challenge-19)         |      🔴        | [Show](2023/challenge-19/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
