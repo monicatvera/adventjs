@@ -117,6 +117,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 18  |        [The digital clock](2023/challenge-18)         |      🔴        | [Show](2023/challenge-18/solution.js) |
 | 19  |        [Face the sabotage](2023/challenge-19)         |       🟠       | [Show](2023/challenge-19/solution.js) |
 | 20  |        [Distribute the weight](2023/challenge-20)         |       🔴       | [Show](2023/challenge-20/solution.js) |
+| 20  |        [Binary message](2023/challenge-21)         |       🟠       | [Show](2023/challenge-21/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
