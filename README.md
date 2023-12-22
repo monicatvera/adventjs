@@ -118,7 +118,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 19  |        [Face the sabotage](2023/challenge-19)         |       🟠       | [Show](2023/challenge-19/solution.js) |
 | 20  |        [Distribute the weight](2023/challenge-20)         |       🔴       | [Show](2023/challenge-20/solution.js) |
 | 21  |        [Binary message](2023/challenge-21)         |       🟠       | [Show](2023/challenge-21/solution.js) |
-| 22  |        [Binary message](2023/challenge-22)         |       🟢       | [Show](2023/challenge-22/solution.js) |
+| 22  |        [Programming language](2023/challenge-22)         |       🟢       | [Show](2023/challenge-22/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
