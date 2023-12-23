@@ -119,6 +119,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 20  |        [Distribute the weight](2023/challenge-20)         |       🔴       | [Show](2023/challenge-20/solution.js) |
 | 21  |        [Binary message](2023/challenge-21)         |       🟠       | [Show](2023/challenge-21/solution.js) |
 | 22  |        [Programming language](2023/challenge-22)         |       🟢       | [Show](2023/challenge-22/solution.js) |
+| 23  |        [Christmas dinner](2023/challenge-23)         |       🟢       | [Show](2023/challenge-23/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
