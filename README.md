@@ -121,6 +121,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 | 22  |        [Programming language](2023/challenge-22)         |       🟢       | [Show](2023/challenge-22/solution.js) |
 | 23  |        [Christmas dinner](2023/challenge-23)         |       🟢       | [Show](2023/challenge-23/solution.js) |
 | 24  |        [Jump on the stairs](2023/challenge-24)         |       🟠       | [Show](2023/challenge-24/solution.js) |
+| 25  |        [Calculating distances](2023/challenge-25)         |       🟠       | [Show](2023/challenge-25/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
